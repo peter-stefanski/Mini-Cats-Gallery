@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6380d9df.css",
-    "main.js": "/static/js/main.285961ac.js",
-    "static/js/453.117b0875.chunk.js": "/static/js/453.117b0875.chunk.js",
-    "static/media/cat.svg": "/static/media/cat.1221a276832344adb3047fb79915cbc4.svg",
-    "index.html": "/index.html",
-    "main.6380d9df.css.map": "/static/css/main.6380d9df.css.map",
-    "main.285961ac.js.map": "/static/js/main.285961ac.js.map",
-    "453.117b0875.chunk.js.map": "/static/js/453.117b0875.chunk.js.map"
+    "main.css": "/Mini-Cats-Gallery/static/css/main.6380d9df.css",
+    "main.js": "/Mini-Cats-Gallery/static/js/main.b0a44f0d.js",
+    "static/js/453.117b0875.chunk.js": "/Mini-Cats-Gallery/static/js/453.117b0875.chunk.js",
+    "static/media/cat.svg": "/Mini-Cats-Gallery/static/media/cat.1221a276832344adb3047fb79915cbc4.svg",
+    "index.html": "/Mini-Cats-Gallery/index.html",
+    "main.6380d9df.css.map": "/Mini-Cats-Gallery/static/css/main.6380d9df.css.map",
+    "main.b0a44f0d.js.map": "/Mini-Cats-Gallery/static/js/main.b0a44f0d.js.map",
+    "453.117b0875.chunk.js.map": "/Mini-Cats-Gallery/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6380d9df.css",
-    "static/js/main.285961ac.js"
+    "static/js/main.b0a44f0d.js"
   ]
 }
