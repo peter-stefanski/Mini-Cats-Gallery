@@ -7,7 +7,7 @@ The app includes a **loader animation**, a **refresh button**, and an **image mo
 
 ## Live Demo
 
-[Click here to see the demo](Link)
+👉 [Click here to see the demo](Link)
 
 ---
 
